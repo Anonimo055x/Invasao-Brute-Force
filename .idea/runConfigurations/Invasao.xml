@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Invasao" type="CompoundRunConfigurationType">
+    <toRun name="Invasao" type="ChromiumRemoteDebugType" />
+    <method v="2" />
+  </configuration>
+</component>
